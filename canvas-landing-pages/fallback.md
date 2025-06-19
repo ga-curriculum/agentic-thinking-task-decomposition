@@ -1,26 +1,29 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
-  <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="prefix">Module 4.4</span>
+  <span class="headline">Agentic Thinking & Task Decomposition</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+Master the critical skill of breaking down ambiguous business goals into precise, machine-executable tasks. Learn to architect resilient agent workflows that eliminate the primary cause of AI agent failure: ambiguity.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](../setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](../concepts/README.md)                    | -- | tktk Skills covered.                |
-| [tktk Microlesson Name](../microlesson-01/README.md) | -- | tktk Skills covered.                |
-| **Total content**                                    | -- |                                     |
+| [Concepts](../concepts/README.md)                                        | 15 min | Understand ambiguity as the enemy of effective agents |
+| [From Ambiguity to Clarity](../microlesson-01/README.md)                | 45 min | Master the 4-step decomposition framework |
+| [Orchestrator & Worker Patterns](../microlesson-02/README.md)           | 30 min | Implement cost-effective multi-agent architectures |
+| **Total content**                                                       | **90 min** |                                     |
 
-## Level Up content
+## Key Learning Outcomes
 
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [tktk Microlesson Name](../microlesson-02/README.md) | -- | tktk Skills covered. |
-| **Total Level Up content**                           | -- |                      |
+By the end of this module, you will be able to:
+
+- Identify and eliminate ambiguity in business requirements
+- Apply the 4-step decomposition framework to complex tasks
+- Design boundary conditions and escalation strategies
+- Implement orchestrator/worker agent patterns for cost efficiency
+- Ensure reproducibility in agentic systems
 
 ## References
 

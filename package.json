@@ -1,7 +1,7 @@
 {
-  "name": "tktk-module-name",
+  "name": "agentic-thinking-task-decomposition",
   "version": "1.0.0",
-  "description": "",
+  "description": "Master the critical skill of breaking down ambiguous business goals into precise, machine-executable tasks",
   "scripts": {
     "mdv": "node md-validate.js"
   },
