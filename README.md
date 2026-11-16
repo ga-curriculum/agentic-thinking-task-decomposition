@@ -28,24 +28,6 @@ Master the critical skill of breaking down ambiguous business goals into precise
 - Basic knowledge of RAG systems and vector databases (Modules 4.2-4.3)
 - Familiarity with API calls and tool usage patterns
 
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
 ### Course landing pages
 
 - [Fallback](https://ga-curriculum.github.io/Agentic-Thinking-Task-Decomposition/canvas-landing-pages/fallback.html)
